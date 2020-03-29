@@ -4,4 +4,4 @@
 2. http://networkdata.ics.uci.edu/data
 
 **Graph Generated from the file.**
-[Graph](labels.png)
+![Graph](labels.png)
